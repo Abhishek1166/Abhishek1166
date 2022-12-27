@@ -21,7 +21,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I automate things with 
   <hr></hr>
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/15270534830c9ef1843e66ccde99d3501751aafd1cb07f9fe93e786cad928f27/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6f76656d69736872616864722673686f775f69636f6e733d74727565267468656d653d68696768636f6e7472617374"><img src="https://camo.githubusercontent.com/15270534830c9ef1843e66ccde99d3501751aafd1cb07f9fe93e786cad928f27/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c6f76656d69736872616864722673686f775f69636f6e733d74727565267468656d653d68696768636f6e7472617374" alt="Abhishek's Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhidubey1166&amp;show_icons=true&amp;theme=highcontrast" style="max-width: 100%;"></a>
+ 
   
   
 
