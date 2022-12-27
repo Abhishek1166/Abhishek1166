@@ -1,7 +1,6 @@
-<h3 align="center">I'm a QA on mission to automate the boring stuff in order to focus on super productive stuff. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please give me a shout out @Abhishek1166</h3>
+<h3 align="justify">I'm a QA on mission to automate the boring stuff in order to focus on super productive stuff. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please give me a shout out @Abhishek1166</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1166&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1166" /> </p>
-<img align="right" alt="QA" width="400" src="">
+
 - 📫 How to reach me **abhidubey1166@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
