@@ -30,6 +30,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <hr></hr>
 
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Abhishek1166&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=Abhishek1166&show_icons=true&locale=en)" alt="Abhishek1166" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek1166&show_icons=true&locale=en" alt="Abhishek1166" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek1166&" alt="Abhishek1166" /></p>
