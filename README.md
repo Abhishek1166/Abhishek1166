@@ -8,7 +8,7 @@
 <h3 align="left">Tools & Tech Stack:</h3>
 <p align="left">
 I am interested in talking about Java, Selenium WebDriver, Apache POI/CommonsIO, Log4j2, Maven, Jenkins, Cucumber, TestNG, JUnit, Extent Reports &amp; Continous Cloud Integration. Also, Framework Architecture such as Test Data-Driven Development, Behaviour Driven Development &amp; Hybrid Development and Software Test Engineering 
-<a href="https://www.youtube.com/c/qquantum db it solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qquantum db it solutions" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/qquantum db it solutions" target="blank"></a>
 </p>
 <hr></hr>
 <h3 align="left">Boy Scout Rule:</h3>
